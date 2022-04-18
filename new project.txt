@@ -1,0 +1,14 @@
+<html>
+<Head>chromeoperator</Head>
+<Tittle> new zen operators</Tittle>
+<H1> Ranjith is working in Tcs</H1>
+<br>
+<input type="text" name="First name">
+<br>
+<input type="text" name="Last name">
+<br>
+<input type="password" ="password">
+<input type="submit" name="bottom" value=""submit">
+</html>
+
+
